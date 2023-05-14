@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(238, 232, 221);
+    font-size: 33px;
+    color: black;
+    padding: 0px;
+    margin: 0;
+    height: 90vh;
+    text-align: center;
+    align-items: center;
+    border: 12px solid tomato;
+}
+.button-container button{
+    width: 150px;
+    height: 30px;
+    font-size: 16px;
+    border: solid goldenrod 2px;
+    border-radius: 12px;
+    
+}
